@@ -1,0 +1,2882 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Mapa",
+      "header": true,
+      "footer": false
+    },
+    "page_2": {
+      "id": "page_2",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_8"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Contacto",
+      "header": true,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_14",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "2.5%",
+            "bottom": "-0.0%",
+            "width": "100.0%",
+            "height": "97.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    },
+    "layout_2": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "bbox": {
+            "left": "10.3%",
+            "right": "61.6%",
+            "top": "32.5%",
+            "bottom": "32.5%",
+            "width": "28.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "bbox": {
+            "left": "64px",
+            "right": "68.5%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "26.5%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "39.5%",
+            "right": "0%",
+            "top": "16.0%",
+            "bottom": "35.7%",
+            "width": "23.4%",
+            "height": "48.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_16",
+          "bbox": {
+            "left": "8.00px",
+            "right": "1100.00px",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "46px",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "layout_3": {
+      "content": {},
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_10": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_18",
+          "bbox": {
+            "left": "8.9%",
+            "right": "80.6%",
+            "top": "2.1%",
+            "bottom": "91.6%",
+            "width": "10.4%",
+            "height": "6.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_30",
+          "bbox": {
+            "left": "58.2%",
+            "right": "3.8%",
+            "top": "89.1%",
+            "bottom": "4.9%",
+            "width": "38.0%",
+            "height": "6.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_11": {
+      "content": {
+        "1": {
+          "type": "SECTION",
+          "sectionId": "section_1",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "30.7%",
+            "bottom": "-0.0%",
+            "width": "100.0%",
+            "height": "69.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "2": {
+          "type": "SECTION",
+          "sectionId": "section_2",
+          "bbox": {
+            "left": "2.5%",
+            "right": "20.7%",
+            "top": "22.5%",
+            "bottom": "9.7%",
+            "width": "76.8%",
+            "height": "67.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_26",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "91.7%",
+            "width": "408px",
+            "height": "60px"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "STRETCH",
+              "height": "CUSTOM",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "6": {
+          "type": "SECTION",
+          "sectionId": "section_4",
+          "bbox": {
+            "left": "0.0%",
+            "right": "-0.0%",
+            "top": "60px",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "91.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "1",
+        "2",
+        "5",
+        "6"
+      ]
+    },
+    "layout_12": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_15",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_13": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_13",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_14": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_29",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_15": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {},
+          "setting": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_21",
+          "bbox": {},
+          "setting": {}
+        }
+      },
+      "type": "FIXED",
+      "label": "Controller layout",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_16": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_22",
+          "bbox": {
+            "left": "24.6%",
+            "right": "34.6%",
+            "top": "9.3%",
+            "bottom": "77.2%",
+            "width": "40.8%",
+            "height": "13.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_17": {
+      "type": "FIXED",
+      "content": {}
+    },
+    "layout_18": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_23",
+          "bbox": {
+            "left": "10.6%",
+            "right": "13.4%",
+            "top": "38.0%",
+            "bottom": "50.0%",
+            "width": "380px",
+            "height": "60px"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO"
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_19": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_25",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "60.00px",
+            "bottom": "0%",
+            "width": "100.0000%",
+            "height": "60.00px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "CUSTOM"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_25": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_27",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_26": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_28",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.2%",
+            "top": "8.9%",
+            "bottom": "30.4%",
+            "width": "99.8%",
+            "height": "60.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    },
+    "layout_27": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_31",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    }
+  },
+  "exbVersion": "1.17.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_5": {
+      "uri": "widgets/common/text/",
+      "version": "1.17.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<p></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "wrap": true
+        }
+      },
+      "id": "widget_5"
+    },
+    "widget_6": {
+      "uri": "widgets/common/text/",
+      "version": "1.17.0",
+      "label": "Texto 3",
+      "config": {
+        "text": "<p><strong style=\"font-size: 20px;\">CIUDAD DE MADRID</strong></p><p><strong style=\"font-size: 20px;\">Actividades</strong></p>",
+        "placeholder": "Haga doble clic para editar texto",
+        "style": {
+          "wrap": true
+        }
+      },
+      "id": "widget_6"
+    },
+    "widget_9": {
+      "uri": "widgets/common/menu/",
+      "version": "1.17.0",
+      "label": "Menú",
+      "config": {
+        "type": "nav",
+        "vertical": false,
+        "menuStyle": "pills",
+        "advanced": true,
+        "variant": {
+          "item": {
+            "default": {
+              "color": "var(--light)"
+            }
+          }
+        }
+      },
+      "id": "widget_9",
+      "style": {
+        "boxShadow": {
+          "presetStyle": "shadow-sm"
+        }
+      }
+    },
+    "widget_13": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.17.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null,
+        "scaleRange": null
+      },
+      "id": "widget_13",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_10"
+        }
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_4",
+          "mainDataSourceId": "dataSource_4"
+        },
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_14": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.17.0",
+      "label": "Barra Principal",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "408px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 40,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 4px 4px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 4px 4px 0"
+            }
+          },
+          "template": "rect"
+        },
+        "defaultState": 1
+      },
+      "id": "widget_14",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_11"
+        },
+        "SECOND": {
+          "LARGE": "layout_12"
+        }
+      }
+    },
+    "widget_15": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.17.0",
+      "label": "Barra lateral 2",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 40,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "4px 0 0 4px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "4px 0 0 4px"
+            }
+          },
+          "template": "rect"
+        },
+        "defaultState": 0
+      },
+      "id": "widget_15",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_13"
+        },
+        "SECOND": {
+          "LARGE": "layout_14"
+        }
+      }
+    },
+    "widget_16": {
+      "uri": "widgets/common/image/",
+      "version": "1.17.0",
+      "label": "Imagen",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_16/1744288065582.png",
+            "originalUrl": "${appResourceUrl}/images/widget_16/1744288065582.png",
+            "fileName": "1744288065582.png",
+            "originalName": "exb_logo.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1744288065582",
+            "isUseCompress": false,
+            "originalWidth": 220,
+            "originalHeight": 220
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_16"
+    },
+    "widget_18": {
+      "uri": "widgets/common/controller/",
+      "version": "1.17.0",
+      "label": "Controlador de widget",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {}
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "circle"
+            }
+          }
+        }
+      },
+      "id": "widget_18",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_15"
+        }
+      }
+    },
+    "widget_19": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.17.0",
+      "label": "Capas del mapa 2",
+      "config": {
+        "useMapWidget": true,
+        "opacity": true
+      },
+      "id": "widget_19",
+      "useMapWidgetIds": [
+        "widget_13"
+      ]
+    },
+    "widget_21": {
+      "uri": "widgets/arcgis/basemap-gallery/",
+      "version": "1.17.0",
+      "label": "Galería de mapas base",
+      "config": {},
+      "id": "widget_21"
+    },
+    "widget_22": {
+      "uri": "widgets/common/navigator/",
+      "version": "1.17.0",
+      "label": "Navegación por vistas",
+      "config": {
+        "data": {
+          "type": "AUTO",
+          "section": "",
+          "views": []
+        },
+        "display": {
+          "advanced": false,
+          "vertical": false,
+          "type": "nav",
+          "navStyle": "default",
+          "standard": {
+            "scrollable": true,
+            "textAlign": "center",
+            "gap": "0px",
+            "showText": true,
+            "showIcon": false,
+            "iconPosition": "start"
+          }
+        }
+      },
+      "id": "widget_22"
+    },
+    "widget_23": {
+      "uri": "widgets/common/navigator/",
+      "version": "1.17.0",
+      "label": "Navegación por vistas 2",
+      "config": {
+        "data": {
+          "type": "AUTO",
+          "section": "",
+          "views": []
+        },
+        "display": {
+          "type": "nav",
+          "navStyle": "default",
+          "standard": {
+            "gap": "0px",
+            "scrollable": true,
+            "showIcon": false,
+            "showText": true,
+            "iconPosition": "start",
+            "textAlign": "center"
+          },
+          "vertical": false,
+          "advanced": false
+        }
+      },
+      "id": "widget_23"
+    },
+    "widget_25": {
+      "uri": "widgets/arcgis/near-me/",
+      "version": "1.17.0",
+      "label": "Cerca de mí",
+      "config": {
+        "useMapWidget": false,
+        "generalSettings": {
+          "highlightColor": "#01455c",
+          "noResultsFoundText": "No se encontraron resultados.",
+          "noResultMsgStyleSettings": {
+            "fontFamily": "Avenir Next",
+            "fontBold": false,
+            "fontItalic": false,
+            "fontUnderline": false,
+            "fontStrike": false,
+            "fontColor": "var(--black)",
+            "fontSize": "12px"
+          },
+          "promptTextMessage": "",
+          "promptTextMsgStyleSettings": {
+            "fontFamily": "Avenir Next",
+            "fontBold": false,
+            "fontItalic": false,
+            "fontUnderline": false,
+            "fontStrike": false,
+            "fontColor": "var(--black)",
+            "fontSize": "12px"
+          }
+        },
+        "configInfo": {
+          "dataSource_1": {
+            "analysisSettings": {
+              "layersInfo": [],
+              "displayFeatureCount": true,
+              "displayAnalysisIcon": false,
+              "displayMapSymbols": false,
+              "showDistFromInputLocation": true,
+              "onlyShowLayersResult": false,
+              "displayAllLayersResult": false,
+              "enableProximitySearch": false,
+              "saveFeatures": {
+                "saveInputLocation": false,
+                "pointFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "polylineFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "polygonFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "searchAreaFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                }
+              }
+            },
+            "searchSettings": {
+              "headingLabel": "Localización",
+              "bufferDistance": 1,
+              "distanceUnits": "",
+              "showDistanceSettings": true,
+              "sketchTools": {
+                "showPoint": true,
+                "showPolyline": true,
+                "showPolygon": true
+              },
+              "searchByActiveMapArea": false,
+              "includeFeaturesOutsideMapArea": false,
+              "headingLabelStyle": {
+                "fontFamily": "Avenir Next",
+                "fontBold": false,
+                "fontItalic": false,
+                "fontUnderline": false,
+                "fontStrike": false,
+                "fontColor": "var(--ref-palette-black)",
+                "fontSize": "13px"
+              },
+              "showInputAddress": true
+            }
+          }
+        }
+      },
+      "id": "widget_25",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "outputDataSources": [],
+      "useMapWidgetIds": [
+        "widget_13"
+      ],
+      "useDataSources": []
+    },
+    "widget_26": {
+      "uri": "widgets/common/navigator/",
+      "version": "1.17.0",
+      "label": "Navegación por vistas 3",
+      "config": {
+        "data": {
+          "type": "AUTO",
+          "section": "section_4",
+          "views": []
+        },
+        "display": {
+          "type": "nav",
+          "navStyle": "pills",
+          "standard": {
+            "gap": "0px",
+            "scrollable": true,
+            "showIcon": false,
+            "showText": true,
+            "iconPosition": "start",
+            "textAlign": "center"
+          },
+          "vertical": false,
+          "advanced": false
+        }
+      },
+      "id": "widget_26"
+    },
+    "widget_27": {
+      "uri": "widgets/arcgis/near-me/",
+      "version": "1.17.0",
+      "label": "Cerca de mí 2",
+      "config": {
+        "useMapWidget": false,
+        "generalSettings": {
+          "highlightColor": "#01455c",
+          "noResultsFoundText": "No se encontraron resultados.",
+          "noResultMsgStyleSettings": {
+            "fontFamily": "Avenir Next",
+            "fontBold": false,
+            "fontItalic": false,
+            "fontUnderline": false,
+            "fontStrike": false,
+            "fontColor": "var(--black)",
+            "fontSize": "12px"
+          },
+          "promptTextMessage": "",
+          "promptTextMsgStyleSettings": {
+            "fontFamily": "Avenir Next",
+            "fontBold": false,
+            "fontItalic": false,
+            "fontUnderline": false,
+            "fontStrike": false,
+            "fontColor": "var(--black)",
+            "fontSize": "12px"
+          }
+        },
+        "configInfo": {
+          "dataSource_1": {
+            "analysisSettings": {
+              "layersInfo": [
+                {
+                  "useDataSource": {
+                    "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+                    "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+                    "rootDataSourceId": "dataSource_1"
+                  },
+                  "label": "Actividades Madrid 100 días (Vista)",
+                  "analysisInfo": {
+                    "analysisId": "524044004116561",
+                    "analysisType": "proximity",
+                    "displayField": "title",
+                    "sortFeaturesByDistance": true,
+                    "sortFeatures": {
+                      "sortFeaturesByField": "",
+                      "sortFeaturesOrder": "ASC"
+                    },
+                    "groupFeaturesEnabled": true,
+                    "groupFeatures": {
+                      "groupFeaturesByField": "district",
+                      "groupFeaturesOrder": "ASC",
+                      "sortGroupsByCount": false,
+                      "noValueGroupLabel": ""
+                    },
+                    "subGroupFeatures": {
+                      "subGroupFeaturesByField": "",
+                      "subGroupFeaturesOrder": "ASC",
+                      "sortSubGroupsByCount": false,
+                      "noValueSubGroupLabel": ""
+                    },
+                    "expandOnOpen": false,
+                    "expandFeatureDetails": false,
+                    "returnIntersectedPolygons": false,
+                    "highlightResultsOnMap": true,
+                    "highlightColorOnMap": "#f507f5",
+                    "fieldsToExport": [
+                      "OBJECTID",
+                      "id",
+                      "title",
+                      "free",
+                      "price",
+                      "dtstart",
+                      "dtend",
+                      "time_",
+                      "excluded_days",
+                      "days",
+                      "frequency",
+                      "interval_",
+                      "link",
+                      "event_location",
+                      "area",
+                      "locality",
+                      "postal_code",
+                      "organization_name",
+                      "audience",
+                      "description",
+                      "street_address",
+                      "district",
+                      "esriCTApproxDistance"
+                    ],
+                    "includeApproxDistance": true
+                  }
+                }
+              ],
+              "displayFeatureCount": true,
+              "displayAnalysisIcon": false,
+              "displayMapSymbols": false,
+              "showDistFromInputLocation": true,
+              "onlyShowLayersResult": false,
+              "displayAllLayersResult": false,
+              "enableProximitySearch": false,
+              "saveFeatures": {
+                "saveInputLocation": false,
+                "pointFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "polylineFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "polygonFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                },
+                "searchAreaFeature": {
+                  "enabled": false,
+                  "useDataSource": null
+                }
+              }
+            },
+            "searchSettings": {
+              "headingLabel": "Localización",
+              "bufferDistance": 1,
+              "distanceUnits": "",
+              "showDistanceSettings": true,
+              "sketchTools": {
+                "showPoint": true,
+                "showPolyline": true,
+                "showPolygon": true
+              },
+              "searchByActiveMapArea": false,
+              "includeFeaturesOutsideMapArea": false,
+              "headingLabelStyle": {
+                "fontFamily": "Avenir Next",
+                "fontBold": false,
+                "fontItalic": false,
+                "fontUnderline": false,
+                "fontStrike": false,
+                "fontColor": "var(--ref-palette-black)",
+                "fontSize": "13px"
+              },
+              "showInputAddress": true
+            }
+          }
+        }
+      },
+      "id": "widget_27",
+      "outputDataSources": [
+        "widget_27_output_proximity_524044004116561"
+      ],
+      "useMapWidgetIds": [
+        "widget_13"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "OBJECTID",
+            "id",
+            "title",
+            "free",
+            "price",
+            "dtstart",
+            "dtend",
+            "time_",
+            "excluded_days",
+            "days",
+            "frequency",
+            "interval_",
+            "link",
+            "event_location",
+            "area",
+            "locality",
+            "postal_code",
+            "organization_name",
+            "audience",
+            "description",
+            "street_address",
+            "district"
+          ]
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_28": {
+      "uri": "widgets/arcgis/elevation-profile/",
+      "version": "1.17.0",
+      "label": "Perfil de elevación",
+      "config": {
+        "useMapWidget": false,
+        "activeDataSource": "dataSource_1",
+        "generalSettings": {
+          "allowExport": true,
+          "isSelectToolActive": false,
+          "isDrawToolActive": false,
+          "showGridAxis": true,
+          "showAxisTitles": false,
+          "showLegend": true,
+          "buttonStyle": "ICONTEXT"
+        },
+        "configInfo": {
+          "dataSource_1": {
+            "elevationLayersSettings": {
+              "addedElevationLayers": [
+                {
+                  "id": "29885638670785441744290507415",
+                  "useDataSource": null,
+                  "label": "Terrain3D",
+                  "elevationLayerUrl": "https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer",
+                  "style": {
+                    "lineType": "solid-line",
+                    "lineColor": "#b54900",
+                    "lineThickness": 2
+                  },
+                  "displayStatistics": true,
+                  "selectedStatistics": [
+                    {
+                      "name": "maxDistance",
+                      "label": "Distancia MÁX.",
+                      "enabled": true
+                    },
+                    {
+                      "name": "maxElevation",
+                      "label": "Elevación MÁX.",
+                      "enabled": true
+                    },
+                    {
+                      "name": "avgElevation",
+                      "label": "Elevación MEDIA",
+                      "enabled": true
+                    },
+                    {
+                      "name": "minElevation",
+                      "label": "Elevación MÍN.",
+                      "enabled": true
+                    },
+                    {
+                      "name": "elevationGain",
+                      "label": "Ganancia de elevación",
+                      "enabled": true
+                    },
+                    {
+                      "name": "maxNegativeSlope",
+                      "label": "Pendiente negativa MÁX.",
+                      "enabled": true
+                    },
+                    {
+                      "name": "avgNegativeSlope",
+                      "label": "Pendiente negativa MEDIA",
+                      "enabled": true
+                    },
+                    {
+                      "name": "maxPositiveSlope",
+                      "label": "Pendiente positiva MÁX.",
+                      "enabled": true
+                    },
+                    {
+                      "name": "avgPositiveSlope",
+                      "label": "Pendiente positiva MEDIA",
+                      "enabled": true
+                    },
+                    {
+                      "name": "elevationLoss",
+                      "label": "Pérdida de elevación",
+                      "enabled": true
+                    }
+                  ]
+                }
+              ],
+              "groundLayerId": "29885638670785441744290507415",
+              "linearUnit": "",
+              "elevationUnit": "",
+              "showVolumetricObjLineInGraph": false,
+              "volumetricObjSettingsOptions": {
+                "id": "20206034264351771744290506937",
+                "style": {
+                  "lineType": "solid-line",
+                  "lineColor": "#cf4ccf",
+                  "lineThickness": 2
+                },
+                "volumetricObjLabel": "Objetos volumétricos",
+                "displayStatistics": true,
+                "selectedStatistics": [
+                  {
+                    "name": "maxDistance",
+                    "label": "Distancia MÁX.",
+                    "enabled": true
+                  },
+                  {
+                    "name": "maxElevation",
+                    "label": "Elevación MÁX.",
+                    "enabled": true
+                  },
+                  {
+                    "name": "avgElevation",
+                    "label": "Elevación MEDIA",
+                    "enabled": true
+                  },
+                  {
+                    "name": "minElevation",
+                    "label": "Elevación MÍN.",
+                    "enabled": true
+                  },
+                  {
+                    "name": "elevationGain",
+                    "label": "Ganancia de elevación",
+                    "enabled": true
+                  },
+                  {
+                    "name": "maxNegativeSlope",
+                    "label": "Pendiente negativa MÁX.",
+                    "enabled": true
+                  },
+                  {
+                    "name": "avgNegativeSlope",
+                    "label": "Pendiente negativa MEDIA",
+                    "enabled": true
+                  },
+                  {
+                    "name": "maxPositiveSlope",
+                    "label": "Pendiente positiva MÁX.",
+                    "enabled": true
+                  },
+                  {
+                    "name": "avgPositiveSlope",
+                    "label": "Pendiente positiva MEDIA",
+                    "enabled": true
+                  },
+                  {
+                    "name": "elevationLoss",
+                    "label": "Pérdida de elevación",
+                    "enabled": true
+                  }
+                ]
+              }
+            },
+            "profileSettings": {
+              "isProfileSettingsEnabled": true,
+              "isCustomizeOptionEnabled": false,
+              "layers": [],
+              "selectionModeOptions": {
+                "selectionMode": "multiple",
+                "style": {
+                  "lineType": "dotted-line",
+                  "lineColor": "#fcfc03",
+                  "lineThickness": 3
+                }
+              },
+              "supportAddedLayers": false
+            },
+            "assetSettings": {
+              "isAssetSettingsEnabled": true,
+              "layers": [
+                {
+                  "layerId": "dataSource_1-19601893ae7-layer-2",
+                  "elevationSettings": {
+                    "type": "no elevation",
+                    "unit": "meters",
+                    "field1": "",
+                    "field2": ""
+                  },
+                  "displayField": "",
+                  "style": {
+                    "type": "custom",
+                    "intersectingAssetShape": "",
+                    "intersectingAssetSize": 0,
+                    "intersectingAssetColor": "#19db6d"
+                  }
+                }
+              ],
+              "assetIntersectingBuffer": {
+                "enabled": false,
+                "bufferDistance": 10,
+                "bufferUnits": "",
+                "bufferSymbol": {
+                  "type": "esriSFS",
+                  "color": [
+                    239,
+                    132,
+                    38,
+                    128
+                  ],
+                  "outline": {
+                    "type": "esriSLS",
+                    "color": [
+                      184,
+                      115,
+                      59,
+                      255
+                    ],
+                    "width": 1.5,
+                    "style": "esriSLSSolid"
+                  },
+                  "style": "esriSFSSolid"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_28",
+      "outputDataSources": [
+        "widget_28-output"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "rootDataSourceId": "dataSource_1",
+          "fields": []
+        }
+      ],
+      "useMapWidgetIds": [
+        "widget_13"
+      ]
+    },
+    "widget_29": {
+      "uri": "widgets/common/chart/",
+      "version": "1.17.0",
+      "label": "Gráfico",
+      "config": {
+        "template": "stacked-bar",
+        "webChart": {
+          "version": "16.1.1",
+          "id": "stacked-bar",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "district"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "OBJECTID",
+                  "outStatisticFieldName": "count_of_OBJECTID"
+                }
+              ],
+              "where": "free={value}"
+            }
+          },
+          "rotated": true,
+          "colorMatch": false,
+          "stackedType": "stacked",
+          "series": [
+            {
+              "type": "barSeries",
+              "id": "0",
+              "name": "De pago",
+              "x": "district",
+              "y": "OBJECTID",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#8257C2",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--ref-palette-neutral-700)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "right",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "binTemporalData": false,
+              "hideOversizedStackedLabels": false,
+              "dataTooltipVisible": true,
+              "query": {
+                "where": "free=0"
+              }
+            },
+            {
+              "type": "barSeries",
+              "id": "1",
+              "name": "Gratuito",
+              "x": "district",
+              "y": "OBJECTID",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#e4936d",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--ref-palette-neutral-700)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "right",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "binTemporalData": false,
+              "hideOversizedStackedLabels": false,
+              "dataTooltipVisible": true,
+              "query": {
+                "where": "free=1"
+              }
+            },
+            {
+              "type": "barSeries",
+              "id": "__other-split-value__",
+              "name": "Undefined",
+              "x": "district",
+              "y": "OBJECTID",
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#D6D6D6",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--ref-palette-neutral-700)",
+                  "width": 0
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "right",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "binTemporalData": false,
+              "hideOversizedStackedLabels": false,
+              "dataTooltipVisible": true,
+              "query": {
+                "where": "free=__other-split-value__"
+              }
+            }
+          ],
+          "axes": [
+            {
+              "type": "chartAxis",
+              "visible": true,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": true,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 12,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "category",
+                "characterLimit": 11
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--ref-palette-neutral-400)",
+                "width": 0
+              }
+            },
+            {
+              "type": "chartAxis",
+              "visible": false,
+              "isLogarithmic": false,
+              "title": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-800)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 14,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "labels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-500)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 12,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "middle"
+                }
+              },
+              "valueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 0
+                }
+              },
+              "lineSymbol": {
+                "type": "esriSLS",
+                "style": "esriSLSSolid",
+                "color": "var(--light-800)",
+                "width": 1
+              },
+              "grid": {
+                "type": "esriSLS",
+                "style": "esriSLSDash",
+                "color": "var(--ref-palette-neutral-400)",
+                "width": 0
+              }
+            }
+          ],
+          "background": "var(--ref-palette-white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--ref-palette-black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 16,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "Recuento de actividades por distrito"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--ref-palette-neutral-1100)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": true,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--ref-palette-neutral-1100)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 14,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--ref-palette-neutral-1100)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 12,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "bottom"
+          },
+          "orderOptions": {
+            "data": {
+              "orderType": "arcgis-charts-category",
+              "orderBy": "ASC"
+            }
+          }
+        },
+        "tools": {
+          "cursorEnable": true
+        }
+      },
+      "id": "widget_29",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "district",
+            "OBJECTID",
+            "free"
+          ]
+        }
+      ],
+      "outputDataSources": [
+        "widget_29_output"
+      ]
+    },
+    "widget_30": {
+      "uri": "widgets/arcgis/fly-controller/",
+      "version": "1.17.0",
+      "offPanel": true,
+      "label": "Controlador de vuelo",
+      "config": {
+        "itemsList": [
+          {
+            "uuid": "0",
+            "name": "ROTATE",
+            "isInUse": true,
+            "direction": "CCW",
+            "defaultSpeed": "default",
+            "targetMode": "POINT",
+            "rotationPauseTime": "2.0"
+          },
+          {
+            "uuid": "1",
+            "name": "PATH",
+            "isInUse": false,
+            "direction": "FORWARD",
+            "style": "CURVED",
+            "defaultSpeed": "default"
+          },
+          {
+            "uuid": "2",
+            "name": "ROUTE",
+            "isInUse": false,
+            "routes": []
+          }
+        ],
+        "layout": "HORIZONTAL"
+      },
+      "id": "widget_30",
+      "useMapWidgetIds": [
+        "widget_13"
+      ]
+    },
+    "widget_31": {
+      "uri": "widgets/arcgis/3d-toolbox/",
+      "version": "1.17.0",
+      "offPanel": false,
+      "label": "Caja de herramientas 3D",
+      "config": {
+        "tools": [
+          {
+            "id": "daylight",
+            "enable": true,
+            "activedOnLoad": false,
+            "config": {
+              "timezone": true,
+              "timeSliderSteps": 5,
+              "playButtons": true,
+              "playSpeedMultiplier": "1.0",
+              "dateTimeAutoPlay": false,
+              "datePicker": true,
+              "dateOrSeason": "date",
+              "currentSeason": "syncedWithMap",
+              "isShowShadows": true,
+              "dateTimeToggle": true
+            }
+          },
+          {
+            "id": "weather",
+            "enable": true,
+            "activedOnLoad": false,
+            "config": {
+              "weatherType": "sunny",
+              "sunnyConfig": {
+                "cloudCover": 0.5
+              },
+              "cloudyConfig": {
+                "cloudCover": 0.5
+              },
+              "rainyConfig": {
+                "cloudCover": 0.5,
+                "precipitation": 0.5
+              },
+              "snowyConfig": {
+                "cloudCover": 0.5,
+                "precipitation": 0.5
+              },
+              "foggyConfig": {
+                "fogStrength": 0.5
+              }
+            }
+          },
+          {
+            "id": "shadowcast",
+            "enable": true,
+            "activedOnLoad": false,
+            "config": {
+              "visType": "threshold",
+              "timezone": true,
+              "datePicker": true
+            }
+          },
+          {
+            "id": "lineofsight",
+            "enable": true,
+            "activedOnLoad": false,
+            "config": {}
+          },
+          {
+            "id": "slice",
+            "enable": true,
+            "activedOnLoad": false,
+            "config": {
+              "tiltEnabled": false,
+              "excludeGroundSurface": true,
+              "analyses": []
+            }
+          }
+        ],
+        "arrangement": {
+          "style": "list",
+          "direction": "horizontal"
+        }
+      },
+      "id": "widget_31",
+      "useMapWidgetIds": [
+        "widget_13"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_1": {
+      "id": "view_1",
+      "label": "Cerca de mi",
+      "layout": {
+        "LARGE": "layout_16"
+      }
+    },
+    "view_2": {
+      "id": "view_2",
+      "label": "Perfil del terreno",
+      "layout": {
+        "LARGE": "layout_17"
+      }
+    },
+    "view_3": {
+      "id": "view_3",
+      "label": "Cerca de mí",
+      "layout": {
+        "LARGE": "layout_18"
+      }
+    },
+    "view_4": {
+      "id": "view_4",
+      "label": "Vista",
+      "layout": {
+        "LARGE": "layout_19"
+      }
+    },
+    "view_10": {
+      "id": "view_10",
+      "label": "Cerca mío",
+      "layout": {
+        "LARGE": "layout_25"
+      }
+    },
+    "view_11": {
+      "id": "view_11",
+      "label": "Perfil terreno",
+      "layout": {
+        "LARGE": "layout_26"
+      }
+    },
+    "view_12": {
+      "id": "view_12",
+      "label": "Herramientas 3D",
+      "layout": {
+        "LARGE": "layout_27"
+      }
+    }
+  },
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "label": "Sección",
+      "views": [
+        "view_1",
+        "view_2"
+      ]
+    },
+    "section_2": {
+      "id": "section_2",
+      "label": "Sección 2",
+      "views": [
+        "view_3",
+        "view_4"
+      ]
+    },
+    "section_4": {
+      "id": "section_4",
+      "label": "Sección 3",
+      "views": [
+        "view_11",
+        "view_10",
+        "view_12"
+      ]
+    }
+  },
+  "dialogs": {},
+  "messageConfigs": {
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "widgetId": "widget_29",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "filter-data-record-action-1744292648899",
+          "messageWidgetId": "widget_29",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "widget_29_output",
+              "mainDataSourceId": "widget_29_output",
+              "rootDataSourceId": null,
+              "fields": [
+                "district"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+              "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "district"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true,
+            "connectionType": "SET_CUSTOM_FIELDS"
+          },
+          "version": "1.17.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "widget_29_output",
+              "mainDataSourceId": "widget_29_output",
+              "rootDataSourceId": null,
+              "fields": [
+                "district"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+              "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "district"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://educacionesri.maps.arcgis.com"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {}
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "Mapa sesión 1 Experience Builder",
+      "itemId": "f266d5a93c8b49d9947943eb60f7c5ac",
+      "portalUrl": "https://educacionesri.maps.arcgis.com",
+      "childDataSourceJsons": {
+        "196018d60bc-layer-3": {
+          "id": "dataSource_1-196018d60bc-layer-3",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Límites administrativos oficiales del Ayuntamiento de Madrid",
+          "childDataSourceJsons": {
+            "196018d61ad-layer-7": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61ad-layer-7",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "BARRIOS AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "0",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/0",
+              "label": "BARRIOS AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61ac-layer-6": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61ac-layer-6",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "DISTRITOS AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "1",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/1",
+              "label": "DISTRITOS AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61a9-layer-5": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61a9-layer-5",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SECCIONES CENSALES AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "2",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/2",
+              "label": "SECCIONES CENSALES AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61a6-layer-4": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61a6-layer-4",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "TERMINO MPAL AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "3",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/3"
+            }
+          }
+        },
+        "19601893ae7-layer-2": {
+          "id": "dataSource_1-19601893ae7-layer-2",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Actividades Madrid 100 días (Vista)",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "333b57bf795e4cf68816fcd723cb7382",
+          "layerId": "0",
+          "url": "https://services.arcgis.com/oSryZQrvtpGJ3f3s/arcgis/rest/services/Actividades_Madrid_100_días_(Vista)/FeatureServer/0"
+        }
+      }
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_SCENE",
+      "sourceLabel": "My Scene",
+      "itemId": "083134aa86b4441788c7c31dea3d549e",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    },
+    "dataSource_3": {
+      "id": "dataSource_3",
+      "type": "WEB_SCENE",
+      "sourceLabel": "My Scene",
+      "itemId": "083134aa86b4441788c7c31dea3d549e",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    },
+    "widget_27_output_proximity_524044004116561": {
+      "id": "widget_27_output_proximity_524044004116561",
+      "type": "FEATURE_LAYER",
+      "label": "Actividades Madrid 100 días (Vista) (Proximidad)",
+      "isOutputFromWidget": true,
+      "schema": {
+        "idField": "OBJECTID",
+        "fields": {
+          "OBJECTID": {
+            "jimuName": "OBJECTID",
+            "name": "OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            }
+          },
+          "id": {
+            "jimuName": "id",
+            "name": "id",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "id",
+            "format": null
+          },
+          "title": {
+            "jimuName": "title",
+            "name": "title",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "title",
+            "format": null
+          },
+          "free": {
+            "jimuName": "free",
+            "name": "free",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "free",
+            "format": {
+              "digitSeparator": true,
+              "places": 0
+            }
+          },
+          "price": {
+            "jimuName": "price",
+            "name": "price",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "price",
+            "format": null
+          },
+          "dtstart": {
+            "jimuName": "dtstart",
+            "name": "dtstart",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "dtstart",
+            "format": null
+          },
+          "dtend": {
+            "jimuName": "dtend",
+            "name": "dtend",
+            "type": "DATE",
+            "esriType": "esriFieldTypeDate",
+            "alias": "dtend",
+            "format": null
+          },
+          "time_": {
+            "jimuName": "time_",
+            "name": "time_",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "time_",
+            "format": null
+          },
+          "excluded_days": {
+            "jimuName": "excluded_days",
+            "name": "excluded_days",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "excluded_days",
+            "format": null
+          },
+          "days": {
+            "jimuName": "days",
+            "name": "days",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "days",
+            "format": null
+          },
+          "frequency": {
+            "jimuName": "frequency",
+            "name": "frequency",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "frequency",
+            "format": null
+          },
+          "interval_": {
+            "jimuName": "interval_",
+            "name": "interval_",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "interval_",
+            "format": {
+              "digitSeparator": true,
+              "places": 0
+            }
+          },
+          "link": {
+            "jimuName": "link",
+            "name": "link",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "link",
+            "format": null
+          },
+          "event_location": {
+            "jimuName": "event_location",
+            "name": "event_location",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "event_location",
+            "format": null
+          },
+          "area": {
+            "jimuName": "area",
+            "name": "area",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "area",
+            "format": null
+          },
+          "locality": {
+            "jimuName": "locality",
+            "name": "locality",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "locality",
+            "format": null
+          },
+          "postal_code": {
+            "jimuName": "postal_code",
+            "name": "postal_code",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "postal_code",
+            "format": {
+              "digitSeparator": true,
+              "places": 0
+            }
+          },
+          "organization_name": {
+            "jimuName": "organization_name",
+            "name": "organization_name",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "organization_name",
+            "format": null
+          },
+          "audience": {
+            "jimuName": "audience",
+            "name": "audience",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "audience",
+            "format": null
+          },
+          "description": {
+            "jimuName": "description",
+            "name": "description",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "description",
+            "format": null
+          },
+          "street_address": {
+            "jimuName": "street_address",
+            "name": "street_address",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "street_address",
+            "format": null
+          },
+          "district": {
+            "jimuName": "district",
+            "name": "district",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "district",
+            "format": null
+          },
+          "esriCTApproxDistance": {
+            "alias": "Distancia aproximada",
+            "esriType": "esriFieldTypeString",
+            "format": null,
+            "type": "STRING",
+            "jimuName": "esriCTApproxDistance",
+            "name": "esriCTApproxDistance"
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint"
+    },
+    "widget_28-output": {
+      "id": "widget_28-output",
+      "type": "FEATURE_LAYER",
+      "label": "Estadísticas de Perfil de elevación",
+      "originDataSources": [],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": false,
+      "schema": {
+        "label": "Estadísticas de Perfil de elevación",
+        "idField": "OBJECTID",
+        "fields": {
+          "name": {
+            "alias": "Nombre",
+            "type": "NUMBER",
+            "jimuName": "name",
+            "name": "name"
+          },
+          "OBJECTID": {
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "jimuName": "OBJECTID",
+            "name": "OBJECTID"
+          },
+          "maxDistance": {
+            "alias": "DistanciaMÁX.",
+            "type": "STRING",
+            "jimuName": "maxDistance",
+            "name": "maxDistance"
+          },
+          "minElevation": {
+            "alias": "ElevaciónMÍN.",
+            "type": "STRING",
+            "jimuName": "minElevation",
+            "name": "minElevation"
+          },
+          "maxElevation": {
+            "alias": "ElevaciónMÁX.",
+            "type": "STRING",
+            "jimuName": "maxElevation",
+            "name": "maxElevation"
+          },
+          "avgElevation": {
+            "alias": "ElevaciónMEDIA",
+            "type": "STRING",
+            "jimuName": "avgElevation",
+            "name": "avgElevation"
+          },
+          "elevationGain": {
+            "alias": "Gananciadeelevación",
+            "type": "STRING",
+            "jimuName": "elevationGain",
+            "name": "elevationGain"
+          },
+          "elevationLoss": {
+            "alias": "Pérdidadeelevación",
+            "type": "STRING",
+            "jimuName": "elevationLoss",
+            "name": "elevationLoss"
+          },
+          "maxPositiveSlope": {
+            "alias": "PendientepositivaMÁX.",
+            "type": "STRING",
+            "jimuName": "maxPositiveSlope",
+            "name": "maxPositiveSlope"
+          },
+          "maxNegativeSlope": {
+            "alias": "PendientenegativaMÁX.",
+            "type": "STRING",
+            "jimuName": "maxNegativeSlope",
+            "name": "maxNegativeSlope"
+          },
+          "avgPositiveSlope": {
+            "alias": "PendientepositivaMEDIA",
+            "type": "STRING",
+            "jimuName": "avgPositiveSlope",
+            "name": "avgPositiveSlope"
+          },
+          "avgNegativeSlope": {
+            "alias": "PendientenegativaMEDIA",
+            "type": "STRING",
+            "jimuName": "avgNegativeSlope",
+            "name": "avgNegativeSlope"
+          }
+        }
+      },
+      "geometryType": "esriGeometryPolyline"
+    },
+    "dataSource_4": {
+      "id": "dataSource_4",
+      "type": "WEB_SCENE",
+      "sourceLabel": "Escena 3D Sesión 1 Experience",
+      "itemId": "b9cf2e59ea624c1dab9f28f201f61a6b",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    },
+    "widget_29_output": {
+      "id": "widget_29_output",
+      "type": "FEATURE_LAYER",
+      "label": "Estadísticas de Gráfico",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "mainDataSourceId": "dataSource_1-19601893ae7-layer-2",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "__outputid__",
+        "label": "Estadísticas de Gráfico",
+        "fields": {
+          "__outputid__": {
+            "jimuName": "__outputid__",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "name": "__outputid__"
+          },
+          "district": {
+            "jimuName": "district",
+            "name": "district",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "district",
+            "format": null,
+            "originFields": [
+              "district"
+            ]
+          },
+          "count_of_OBJECTID_of_0": {
+            "jimuName": "count_of_OBJECTID_of_0",
+            "name": "count_of_OBJECTID_of_0",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Count of OBJECTID of 0",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID",
+              "free"
+            ]
+          },
+          "count_of_OBJECTID_of_1": {
+            "jimuName": "count_of_OBJECTID_of_1",
+            "name": "count_of_OBJECTID_of_1",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeInteger",
+            "alias": "Count of OBJECTID of 1",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "OBJECTID",
+              "free"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "originExbVersion": "1.17.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    },
+    {
+      "page_2": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_2"
+    },
+    "height": {
+      "LARGE": "60px"
+    },
+    "backgroundColor": "var(--info-800)"
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_3"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "customTheme": {
+    "colors": {
+      "primary": "#016384"
+    }
+  },
+  "timestamp": 1744357264142
+}

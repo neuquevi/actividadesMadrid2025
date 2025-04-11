@@ -1,0 +1,806 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Mapa",
+      "header": true,
+      "footer": false
+    },
+    "page_2": {
+      "id": "page_2",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_8"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Contacto",
+      "header": false,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    },
+    "layout_1": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "9.9%",
+            "right": "70.5%",
+            "top": "15.1%",
+            "bottom": "75.6%",
+            "width": "19.5%",
+            "height": "9.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_12",
+          "bbox": {
+            "left": "8.4%",
+            "right": "87.1%",
+            "top": "80.3%",
+            "bottom": "13.5%",
+            "width": "4.5%",
+            "height": "6.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_2": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "bbox": {
+            "left": "10.3%",
+            "right": "61.6%",
+            "top": "32.5%",
+            "bottom": "32.5%",
+            "width": "28.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "bbox": {
+            "left": "5.7%",
+            "right": "66.2%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "28.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "39.5%",
+            "right": "37.0%",
+            "top": "17.1%",
+            "bottom": "22.0%",
+            "width": "23.4%",
+            "height": "61.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_3": {
+      "content": {},
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_4": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "70.6%",
+            "width": "100.0%",
+            "height": "29.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "42.9%",
+            "bottom": "15.2%",
+            "width": "100.0%",
+            "height": "60.00px"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockLayout": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_5": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "-0.1%",
+            "width": "100.0%",
+            "height": "100.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_6": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0.0%",
+            "right": "38.6%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "61.4%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": []
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_9": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Controller layout",
+      "order": []
+    }
+  },
+  "exbVersion": "1.17.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/vivid/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.17.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null,
+        "scaleRange": null
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_2": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.17.0",
+      "label": "Barra lateral",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "226px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_2",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_4"
+        },
+        "SECOND": {
+          "LARGE": "layout_5"
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.17.0",
+      "label": "Barra lateral 2",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "578px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": false,
+          "iconSource": 0,
+          "icon": "UP",
+          "offsetX": 0,
+          "offsetY": 15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_3",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_6"
+        },
+        "SECOND": {
+          "LARGE": "layout_7"
+        }
+      }
+    },
+    "widget_5": {
+      "uri": "widgets/common/text/",
+      "version": "1.17.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<p></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "wrap": true
+        }
+      },
+      "id": "widget_5"
+    },
+    "widget_6": {
+      "uri": "widgets/common/text/",
+      "version": "1.17.0",
+      "label": "Texto 3",
+      "config": {
+        "text": "<p><strong style=\"font-size: 20px;\">CIUDAD DE MADRID</strong></p><p><strong style=\"font-size: 20px;\">Actividades</strong></p>",
+        "style": {
+          "wrap": true
+        }
+      },
+      "id": "widget_6"
+    },
+    "widget_8": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.17.0",
+      "label": "Capas del mapa",
+      "config": {
+        "useMapWidget": true
+      },
+      "id": "widget_8",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_9": {
+      "uri": "widgets/common/menu/",
+      "version": "1.17.0",
+      "label": "Menú",
+      "config": {
+        "type": "nav",
+        "vertical": false
+      },
+      "id": "widget_9",
+      "style": {
+        "boxShadow": {
+          "presetStyle": "shadow-sm"
+        }
+      }
+    },
+    "widget_11": {
+      "uri": "widgets/common/controller/",
+      "version": "1.17.0",
+      "label": "Controlador de widget",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {}
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "circle"
+            }
+          }
+        }
+      },
+      "id": "widget_11",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_9"
+        }
+      }
+    },
+    "widget_12": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.17.0",
+      "label": "Leyenda",
+      "config": {},
+      "id": "widget_12",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://educacionesri.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "express": false,
+    "title": "Actividades Madrid",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {}
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "Mapa sesión 1 Experience Builder",
+      "itemId": "f266d5a93c8b49d9947943eb60f7c5ac",
+      "portalUrl": "https://educacionesri.maps.arcgis.com",
+      "childDataSourceJsons": {
+        "196018d60bc-layer-3": {
+          "id": "dataSource_1-196018d60bc-layer-3",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Límites administrativos oficiales del Ayuntamiento de Madrid",
+          "childDataSourceJsons": {
+            "196018d61ad-layer-7": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61ad-layer-7",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "BARRIOS AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "0",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/0",
+              "label": "BARRIOS AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61ac-layer-6": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61ac-layer-6",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "DISTRITOS AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "1",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/1",
+              "label": "DISTRITOS AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61a9-layer-5": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61a9-layer-5",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SECCIONES CENSALES AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "2",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/2",
+              "label": "SECCIONES CENSALES AYTO MADRID",
+              "isHidden": true
+            },
+            "196018d61a6-layer-4": {
+              "id": "dataSource_1-196018d60bc-layer-3-196018d61a6-layer-4",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "TERMINO MPAL AYTO MADRID",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "5e56fdef090343728a144a197854836e",
+              "layerId": "3",
+              "url": "https://services-eu1.arcgis.com/UrtTdLP2PYSxwtI6/arcgis/rest/services/Límites_administrativos_oficiales_del_Ayuntamiento_de_Madrid/FeatureServer/3"
+            }
+          }
+        },
+        "19601893ae7-layer-2": {
+          "id": "dataSource_1-19601893ae7-layer-2",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Actividades Madrid 100 días (Vista)",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "333b57bf795e4cf68816fcd723cb7382",
+          "layerId": "0",
+          "url": "https://services.arcgis.com/oSryZQrvtpGJ3f3s/arcgis/rest/services/Actividades_Madrid_100_días_(Vista)/FeatureServer/0"
+        }
+      }
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_SCENE",
+      "sourceLabel": "My Scene",
+      "itemId": "083134aa86b4441788c7c31dea3d549e",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    },
+    "dataSource_3": {
+      "id": "dataSource_3",
+      "type": "WEB_SCENE",
+      "sourceLabel": "My Scene",
+      "itemId": "083134aa86b4441788c7c31dea3d549e",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    }
+  },
+  "originExbVersion": "1.17.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    },
+    {
+      "page_2": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_2"
+    },
+    "height": {
+      "LARGE": 82
+    },
+    "backgroundColor": "var(--danger-200)"
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_3"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "customTheme": {},
+  "publishTimestamp": 1743790007459
+}
